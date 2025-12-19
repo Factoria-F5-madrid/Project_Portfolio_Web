@@ -1,4 +1,4 @@
-```
+
 # 🧑‍💻 Proyecto – Portfolio Profesional de Data Analyst
 
 ## 📝 Descripción del proyecto
@@ -133,4 +133,3 @@ Cada proyecto debe incluir:
 - Calidad del storytelling en los proyectos
 - Relevancia de los proyectos mostrados
 - Organización y estructura del portfolio
-```
